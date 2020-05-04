@@ -2,7 +2,7 @@
 Criando App com Xamarin Forms 
 ### Implementando o Shell no Xamarin Forms, utilizando o FlyOutItem, TabBar e MenuItem para criar uma página MasterDetail.
 
-![Print-App-Xamarin (1)](https://github.com/RicardoDkw/App-Xamarin-Forms/blob/master/Print-App-Xamarin%20(2).jpeg)
+![Print-App-Xamarin (1)]()
 ![Print-App-Xamarin (2)](https://github.com/RicardoDkw/App-Xamarin-Forms/blob/master/Print-App-Xamarin%20(1).jpeg)
 
 #### Sobre o Projeto:
