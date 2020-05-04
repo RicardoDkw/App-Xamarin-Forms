@@ -7,7 +7,7 @@ Criando App com Xamarin Forms
 
 
 #### Sobre o Projeto:
-##### Projeto criado com Visual Studio com Xamarin Forms, onde foi percorrido um processo de aprendizagem da minha parte para o desenvolvimento desse App. 
+Projeto criado com Visual Studio com Xamarin Forms, onde foi percorrido um processo de aprendizagem da minha parte para o desenvolvimento desse App. 
 
 ##### O App tem um template profissional, bonito e responsivo. Abordando um perfil com o intuito de demonstrar mais sobre a pessoa destacada.
 
